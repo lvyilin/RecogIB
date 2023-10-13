@@ -23,12 +23,20 @@ It took about 16 hours to run through on our machine (8 × NVIDIA RTX A4000).
 
 ## Citation
 
-```plain
-@article{lyu2023recognizable,
-  title={Recognizable Information Bottleneck},
-  author={Lyu, Yilin and Liu, Xin and Song, Mingyang and Wang, Xinyue and Peng, Yaxin and Zeng, Tieyong and Jing, Liping},
-  journal={arXiv preprint arXiv:2304.14618},
-  year={2023}
+```bibtex
+@inproceedings{ijcai2023p0448,
+  title     = {Recognizable Information Bottleneck},
+  author    = {Lyu, Yilin and Liu, Xin and Song, Mingyang and Wang, Xinyue and Peng, Yaxin and Zeng, Tieyong and Jing, Liping},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on
+               Artificial Intelligence, {IJCAI-23}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Edith Elkind},
+  pages     = {4028--4036},
+  year      = {2023},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2023/448},
+  url       = {https://doi.org/10.24963/ijcai.2023/448},
 }
 ```
 
